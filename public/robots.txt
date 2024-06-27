@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://game.anginjitu.online/sitemap.xml
